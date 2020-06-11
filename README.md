@@ -1,5 +1,6 @@
 ## [AnyDLBot](https://telegram.dog/AnyDLBot)
 ---
+[![Run on Repl.it](https://repl.it/badge/github/mina-alabd/AnyDLBot)](https://repl.it/github/mina-alabd/AnyDLBot)
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 👉 check the 'branches' for all the features..!
